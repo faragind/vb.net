@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="EmpX" Type="System.String" Scope="User">
+      <Value Profile="(Default)">711</Value>
+    </Setting>
+    <Setting Name="EmpN" Type="System.String" Scope="User">
+      <Value Profile="(Default)">**سها**</Value>
+    </Setting>
+    <Setting Name="AEmail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">hossam@jubar.me</Value>
+    </Setting>
+    <Setting Name="StmpH" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mail.jubar.me</Value>
+    </Setting>
+    <Setting Name="StmpU" Type="System.String" Scope="User">
+      <Value Profile="(Default)">hossam@jubar.me</Value>
+    </Setting>
+    <Setting Name="StmpP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Hemonad105046!</Value>
+    </Setting>
+    <Setting Name="StmpR" Type="System.String" Scope="User">
+      <Value Profile="(Default)">587</Value>
+    </Setting>
+    <Setting Name="FEmail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">voca@jubar.me</Value>
+    </Setting>
+    <Setting Name="Job1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Job2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Job3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
